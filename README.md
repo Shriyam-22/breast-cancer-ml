@@ -89,4 +89,4 @@ Python · scikit-learn · pandas · NumPy · Matplotlib · Seaborn · Streamlit 
 - Docker container and cloud deployment
 
 ## Author
-_Your Name_ — [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Shriyam Gupta** — [GitHub](https://github.com/Shriyam-22) · [LinkedIn](https://www.linkedin.com/in/shriyam-gupta-a6a2222b2)
